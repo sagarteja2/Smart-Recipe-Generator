@@ -13,9 +13,7 @@ Personalized Experience: Save favorites and rate dishes. The recommendation engi
 🚀 Quick Start
 Clone the repository, run npm install then npm start. No backend needed - everything runs locally with persistent storage for favorites and ratings.
 
-
-Perfect for home cooks and students looking to minimize food waste while discovering exciting new dishes!
-
 GitHub Link: https://github.com/sagarteja2/Smart-Recipe-Generator
 
 Deployment Link: https://smart-recipe-generator-two.vercel.app/
+
